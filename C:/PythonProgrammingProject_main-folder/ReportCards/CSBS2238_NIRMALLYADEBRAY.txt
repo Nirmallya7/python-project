@@ -1,0 +1,14 @@
+Name of the student : NIRMALLYADEB RAY 
+Class Roll of the student : 38 
+Stream of the student : CSBS 
+Your Student ID is : CSBS2238
+
+Marks obtained in Math is : 79 
+Marks obtained in Python is : 76 
+Marks obtained in Physics is : 48 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 76 
+Marks obtained in English is : 89 
+
+You have got 457 in total with 457%
+Good Performance... You have passed the exam with grade C.

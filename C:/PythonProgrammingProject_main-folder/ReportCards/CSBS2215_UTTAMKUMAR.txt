@@ -1,0 +1,14 @@
+Name of the student : UTTAM KUMAR 
+Class Roll of the student : 15 
+Stream of the student : CSBS 
+Your Student ID is : CSBS2215
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 76 
+Marks obtained in Biology is : 45 
+Marks obtained in English is : 65 
+
+You have got 471 in total with 471%
+Good Performance... You have passed the exam with grade C.

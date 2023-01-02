@@ -1,0 +1,14 @@
+Name of the student : RR 
+Class Roll of the student : 67 
+Stream of the student : CSBS 
+Your Student ID is : CSBS2267
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 67 
+Marks obtained in English is : 76 
+
+You have got 486 in total with 486%
+Excellent Performance... You have passed the exam with grade B.

@@ -1,0 +1,14 @@
+Name of the student : RRR 
+Class Roll of the student : 76 
+Stream of the student : CSBS 
+Your Student ID is : CSBS2276
+
+Marks obtained in Math is : 76 
+Marks obtained in Python is : 13 
+Marks obtained in Physics is : 97 
+Marks obtained in Chemistry is : 76 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 90 
+
+You have got 417 in total with 417%
+Your performance is average... Work hard... You have passed the exam with grade D.
